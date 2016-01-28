@@ -1,0 +1,28 @@
+name: kevin-bruey
+favicon: null
+layout_spectrum: 0.9580337069928646
+typography_spectrum: 0.2068236288614571
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4456301727332175
+  lightness: 0.8294653610792011
+  saturation: 0.7100494289770722
+  rhythmicContrast: 0.7416024710983038
+purpose: []
