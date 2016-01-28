@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kevin-bruey]]></title>
         <description><![CDATA[kevin-bruey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kevin-bruey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 18:08:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 18:11:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kevin-bruey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Company website layout</p>]]></description>
+            <link>https://thegrid.ai/kevin-bruey/fd2f7dfd-15ab-460b-8dec-c32b703b432c/index.html</link>
+            <guid isPermaLink="false">fd2f7dfd-15ab-460b-8dec-c32b703b432c</guid>
+            <pubDate>Thu, 28 Jan 2016 18:11:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>HI, you made it to my resume site! Great! Glad you are here.  Checkout my stuff and let me know what you think.</p>]]></description>
-            <link>undefinedddff3e17-b932-48a6-9ba3-a3cf8f329ab9/index.html</link>
+            <link>https://thegrid.ai/kevin-bruey/ddff3e17-b932-48a6-9ba3-a3cf8f329ab9/index.html</link>
             <guid isPermaLink="false">ddff3e17-b932-48a6-9ba3-a3cf8f329ab9</guid>
             <pubDate>Thu, 28 Jan 2016 18:08:49 GMT</pubDate>
         </item>
